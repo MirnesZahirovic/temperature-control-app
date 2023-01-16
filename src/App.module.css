@@ -1,0 +1,12 @@
+.appContainer {
+  background: radial-gradient(
+    circle,
+    hsla(318, 63%, 39%, 1) 0%,
+    hsla(274, 49%, 43%, 1) 100%
+  );
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
